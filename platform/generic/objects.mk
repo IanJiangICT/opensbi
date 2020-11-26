@@ -8,4 +8,6 @@
 #
 
 platform-objs-y += platform.o
+platform-objs-y += ffcom_apple.o
+platform-objs-y += ffcom_grape.o
 platform-objs-y += sifive_fu540.o
